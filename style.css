@@ -434,13 +434,16 @@ header .content h1 {
 
 header .content p {
     font-size: 14px;
-    padding: 0 10px;
+    padding: 10px 0;
 }
 #about .about-content {
     flex-direction: column;
 }
 #about .about-content a {
-    margin: 2rem 0;
+    margin: 5rem;
+}
+#about .about-content p{
+    margin: 0 2rem;
 }
 
 #about .about-content img {
