@@ -8,7 +8,7 @@
 - **Source Code:** [GitHub Repository](https://github.com/mqanass/Food-Lover)
 - **Alternative Homepage:** [Vercel Deployment](https://food-lover-weld.vercel.app)
 
-## Features
+### Features
 
 - **Responsive Design:** The website adapts smoothly to all screen sizes, ensuring usability across desktops, tablets, and mobile devices.
 - **Modern UI:** Sleek layouts, vibrant color schemes, and attractive typography create a professional and inviting look.
